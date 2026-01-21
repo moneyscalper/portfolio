@@ -122,6 +122,8 @@ export function FeaturedProjects() {
         '/hero.png',
       liveUrl: 'https://www.cognustechnology.com/',
     },
+
+    
     {
       title: 'AI-Powered Education & Study Abroad Platform for Gradding.com',
       description:
