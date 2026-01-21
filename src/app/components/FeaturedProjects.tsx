@@ -119,7 +119,7 @@ export function FeaturedProjects() {
       tags: ['AI Analytics', 'AI Chatbot', 'AI Calling Agent'],
       image:
         // 'https://samplelib.com/lib/preview/png/sample-bumblebee-400x300.png',
-        '../../src/assets/bccb90f8c4203b5ec113352ec9459d021bd9ff98.png',
+        '/hero.png',
       liveUrl: 'https://www.cognustechnology.com/',
     },
     {
