@@ -10,7 +10,10 @@ interface ProjectProps {
   liveUrl?: string;
   githubUrl?: string;
 }
-
+// https://ibb.co/93gyB4SN
+// https://ibb.co/qYr49JZ4
+// https://ibb.co/Q7tFF9hh
+// https://ibb.co/YBSDXmZK
 function ProjectCard({
   title,
   description,
@@ -133,7 +136,7 @@ export function FeaturedProjects() {
       tags: ['AI Analytics', 'AI Chatbot', 'AI Calling Agent'],
       image:
         // 'https://samplelib.com/lib/preview/png/sample-bumblebee-400x300.png',
-        '../../src/assets/bfe1a132516138507fa3ede1a6dae9999932e4f8.png',
+        'https://i.ibb.co/YTQfJdw3/5d04433138b8d7a601804fb888065e8f6b20473d.png',
       liveUrl: 'https://www.gradding.com/',
     },
     {
